@@ -57,7 +57,7 @@ Muti-modal 감정 분류를 통한 감정이 반영된 자막 애니메이션 �
 #### `develop`
 
 - 아직 배포되지 않은 공용 브랜치
-- feature 브랜치로부터 merge를 받, 개발 중 버그를 발견하면 이 브랜치에 직접 commit
+- feature 브랜치로부터 merge를 받아 개발 중 버그를 발견하면 이 브랜치에 직접 commit
 
 #### `feature`
 
